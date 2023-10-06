@@ -114,3 +114,65 @@ For your reference, my 2021 platform can be found
 
 Thank you for your support in ensuring the continued growth and success of
 OpenTelemetry.
+
+### Severin Neumann
+
+![Severin Neumann](static/severin-neumann.jpg)
+
+- Company: Cisco
+- GitHub: [svrnm](https://github.com/svrnm)
+
+#### What I'll do
+
+While I have been a software engineer for more than 20 years, and published a lot of my work as open source, the OpenTelemetry
+community is the first large community in which I went from being a [first-time contributor](https://github.com/open-telemetry/opentelemetry-js/pull/1509) to an approver to [co-maintainer of
+SIG Communications](https://github.com/open-telemetry/opentelemetry.io/issues?q=involves%3Asvrnm). On this journey, I followed some of the best practices (reading the contributor guidelines), made plenty of mistakes (raising more PRs than I am able to follow up with) and enjoy interacting with the fabolous people in the OpenTelemetry community.
+
+Each role in this contributor's journey is crucial to the success of OpenTelemetry and comes with its own needs and challenges. To address
+these in the Governance Committee, if elected, I want to ...
+
+- **... lower the barrier for new contributors to get started and make their first successful contribution**
+
+  In the last 2 years I led the efforts around OpenTelemetry at Cisco and encouraged [almost 100 individuals](https://opentelemetry.devstats.cncf.io/d/66/developer-activity-counts-by-companies?orgId=1&var-period_name=Last%20decade&var-metric=contributions&var-repogroup_name=All&var-country_name=All&var-companies=Cisco) to contribute, many of them for the first time. By doing that I learned a lot about the challenges that new contributors face and how to address them, e.g. by writing precise and easy-to-follow guidelines or by taking the time for a quick 1:1 to help them get started.
+
+  I want to use this experience to make it easier for new contributors to get started, make their first successful contribution and become a long-term contributor.
+
+  My goal is to work with members of the GC, TC and SIGs to identify effective means to lower the barrier for new contributors and to implement them.
+
+- **... make it easier for existing contributors to find their way to the next level of contribution**
+
+  We as OpenTelemetry community want and need first-time contributors to stay, become an established member and continue to help make OpenTelemetry successful.
+
+  I believe that being seen and recognized for contributions is a key factor to make individuals stick. The OpenTelemetry community is
+  growing quickly and it is hard to keep track of all the great work that is happening and, especially work that is not happening in our repositories (e.g. giving a talk, actively participating in SIG calls or helping out in the community forum). Because of that a lot of individuals doing that work might not get the recognition they deserve.
+
+  My goal is, that we establish means to recognize and reward contributions at a community-wide level, and to support contributors actively in their journey to become approvers, maintainers and leaders of the community.
+
+- **... support maintainers to be sustainable and effective in their role**
+
+  Maintainers are the backbone of the OpenTelemetry community. Many of us are doing this either in their spare time or can only assign a fraction of their work time to OpenTelemetry. To do this sustainably, maintainers need to be effective in their role and be able to do their work as frictionless as possible.
+
+  I am convinced that there are many opportunities where SIGs can learn from each other (or from other successful OSS projects) and share best practices.
+
+  My goal is to uncover these opportunities and to provide SIGs with the help they need to implement what makes them more effective and sustainable.
+
+- **... drive interaction and integration with the wider OSS community**
+
+  It is in [OpenTelemetry' mission](https://opentelemetry.io/community/mission/#telemetry-should-be-built-in) that _high-quality telemetry should be built in to the entire software stack – just like comments are today._ This means, that we don't build OpenTelemetry solely for us, but for being integrated first-class into other OSS projects, like Kubernetes, Docker, Jenkins and [many more](https://opentelemetry.io/ecosystem/integrations/).
+
+  Because of that, I believe, that the OpenTelemetry community stretches beyond the boundaries of our repositories and that we need to actively engage with the wider OSS community.
+
+  My goal is, that we strengthen existing relationships and to establish new ones with other OSS projects, to accomplish our shared vision and mission.
+
+### About me
+
+I am a co-maintainer of the SIG Communication (Website, Docs), where we work on providing an easy entry to OpenTelemetry for end-users by
+harnessing the amazing work of all other SIGs. I am currently passionate about creating consistency our documentation, to make it easier for us to maintain and for end-users to find what they are looking for, for example by standardizing [the Getting Started](https://github.com/open-telemetry/opentelemetry.io/issues/2623) and section about [Manual Instrumentation](https://github.com/open-telemetry/opentelemetry.io/issues/3229) across languages.
+
+At Cisco, I am a member of the [Open Source Program Office](https://opensource.cisco.com), and  I am steering an active internal Community around OpenTelemetry, which grew from a handful of individuals 2 years ago to almost 100 contributors today, who did [12000+ contributions and merged 900+ PRs so far](https://opentelemetry.devstats.cncf.io/d/5/companies-table?orgId=1).
+
+This year I also had the pleasure to talk about OpenTelemetry at [KubeCon EU](https://youtu.be/XvPsdjNrpKo?feature=shared) and at [CloudLand 2023 in Germany](https://en.shop.doag.org/events/cloudland/2023/agenda/#eventDay.all#textSearch.Severin%20Neumann) to participate in the [Program Committee for KubeCon NA](https://www.credly.com/badges/c930d2a0-b88d-4a7f-b4b8-a72d9410141a).
+
+### Thank you
+
+Thank you for making OpenTelemetry an awesome community!
