@@ -152,7 +152,7 @@ experiences as both an adopter and advocate for OpenTelemetry.
 
 #### What I'll Do
 
-I have been a software engineer for over 20 years and published much of my work as open source. Three years ago, [I started contributing to OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js/pull/1509) and have since become a [co-maintainer of SIG Communications](https://github.com/open-telemetry/opentelemetry.io/issues?q=involves%3Asvrnm+sort%3Aupdated-desc). Along this journey, I have learned from best practices, made mistakes, and enjoyed interacting with the fantastic people in the OpenTelemetry community.
+I have been a software engineer for over 20 years and [published much of my work as open source](https://github.com/svrnm/). Three years ago, [I started contributing to OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js/pull/1509) and have since become a [co-maintainer of SIG Communications](https://github.com/open-telemetry/opentelemetry.io/issues?q=involves%3Asvrnm+sort%3Aupdated-desc). Along this journey, I have learned from best practices, made mistakes, and enjoyed interacting with the fantastic people in the OpenTelemetry community.
 
 Each role in a contributor's journey is crucial to the success of OpenTelemetry and presents its own challenges. If elected to the Governance Committee, my goal, in collaboration with other community leaders such as the Governance Committee, Technical Committee, and maintainers, is to:
 
