@@ -152,7 +152,7 @@ experiences as both an adopter and advocate for OpenTelemetry.
 
 #### What I'll Do
 
-I have been a software engineer for over 20 years and and published a lot of my work as open source. Three years ago, [I started contributing to OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js/pull/1509) and have since become a [co-maintainer of SIG Communications](https://github.com/open-telemetry/opentelemetry.io/issues?q=involves%3Asvrnm+sort%3Aupdated-desc). Along this journey, I have learned from best practices, made mistakes, and enjoyed interacting with the fantastic people in the OpenTelemetry community.
+I have been a software engineer for over 20 years and published much of my work as open source. Three years ago, [I started contributing to OpenTelemetry](https://github.com/open-telemetry/opentelemetry-js/pull/1509) and have since become a [co-maintainer of SIG Communications](https://github.com/open-telemetry/opentelemetry.io/issues?q=involves%3Asvrnm+sort%3Aupdated-desc). Along this journey, I have learned from best practices, made mistakes, and enjoyed interacting with the fantastic people in the OpenTelemetry community.
 
 Each role in a contributor's journey is crucial to the success of OpenTelemetry and presents its own challenges. If elected to the Governance Committee, my goal, in collaboration with other community leaders such as the Governance Committee, Technical Committee, and maintainers, is to:
 
@@ -166,7 +166,7 @@ Each role in a contributor's journey is crucial to the success of OpenTelemetry 
 
 #### About Me
 
-I am a co-maintainer of SIG Communication ([Website](https://github.com/open-telemetry/opentelemetry.io), [Docs](https://github.com/open-telemetry/opentelemetry.io)) and focus on providing an easy entry to OpenTelemetry for end-users by leveraging the work of other SIGs. Currently, I am passionate about creating consistency in our documentation to improve maintainability and user experience. For example, I am driving the standardizing of ["Getting Started"](https://github.com/open-telemetry/opentelemetry.io/issues/2623) guides and sections about ["Manual Instrumentation"](https://github.com/open-telemetry/opentelemetry.io/issues/3229) across different languages.
+I am a co-maintainer of SIG Communication ([Website and Docs](https://github.com/open-telemetry/opentelemetry.io)) and focus on providing an easy entry to OpenTelemetry for end-users by leveraging the work of other SIGs. Currently, I am passionate about creating consistency in our documentation to improve maintainability and user experience. For example, I am driving the standardizing of ["Getting Started"](https://github.com/open-telemetry/opentelemetry.io/issues/2623) guides and sections about ["Manual Instrumentation"](https://github.com/open-telemetry/opentelemetry.io/issues/3229) across different languages.
 
 At Cisco, I am a member of the [Open Source Program Office](https://opensource.cisco.com) and actively drive an internal community around OpenTelemetry. Over the past two years, this community has grown from a handful of individuals to almost 100 contributors, with [over 12,000 contributions and 900+ merged PRs](https://opentelemetry.devstats.cncf.io/d/5/companies-table?orgId=1).
 
