@@ -14,4 +14,4 @@ body:
   attributes:
     label: "Github handle of the new maintainer"
     placeholder: "@example"  
-    required: true
+  required: true
