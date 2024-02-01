@@ -8,10 +8,12 @@ body:
   attributes:
     label: "SIG name"
     placeholder: "SIG example"
-  required: true
+  validations:
+    required: true
 - id: github_handle
   type: input
   attributes:
     label: "Github handle of the new maintainer"
-    placeholder: "@example"  
-  required: true
+    placeholder: "@example"
+  validations:
+    required: true
