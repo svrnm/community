@@ -14,6 +14,14 @@ body:
     placeholder: "SIG example"
   validations:
     required: true
+- id: sig
+  type: input
+  attributes:
+    label: "maintainers team"
+    placeholder: "@opentelemetry/<sig-name>-maintainers"
+    description: Tag the maintainers group. If unsure, you can [look groups up](https://github.com/orgs/open-telemetry/teams?query=maintainers)
+  validations:
+    required: true
 - id: github_handle
   type: input
   attributes:
