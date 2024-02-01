@@ -42,7 +42,7 @@ body:
 - id: election
   type: checkboxes
   attributes:
-    lablel: election
+    label: election
     description: |
       Unless stated otherwise in a SIG charter ratified by the Technical Committee, all existing maintainers are asked to vote, 
       if the candidate should be added to their group of maintainers. They vote by commenting "I support" or "I do not support" on this issue.
