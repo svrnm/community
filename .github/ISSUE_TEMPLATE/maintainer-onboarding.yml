@@ -3,6 +3,10 @@ description: Onboarding checklist for maintainers
 title: "Onboard <GitHub handle> as <SIG/WG FOO> maintainer"
 labels: area/github-membership
 body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue should be submitted by an existing maintainer of the affected SIG
 - id: sig
   type: input
   attributes:
@@ -17,3 +21,12 @@ body:
     placeholder: "@example"
   validations:
     required: true
+- id: checkboxes
+  attributes:
+    label: Requirements
+    description: Before submitting 
+    options:
+      - label: Are you (submitter of this issue) a maintainer of the affected SIG?
+        required: true
+      - label: Is this maintainer a member of the OpenTelemetry GitHub organization already?
+        required: true
