@@ -25,7 +25,7 @@ body:
 - id: github_handle
   type: input
   attributes:
-    label: "Github handle of the new maintainer"
+    label: "Github handle of the new maintainer candidate"
     placeholder: "@example"
   validations:
     required: true
@@ -39,3 +39,14 @@ body:
         required: true
       - label: Is this maintainer a member of the OpenTelemetry GitHub organization already?
         required: true
+- id: election
+  type: checkboxes
+  description: |
+    Unless stated otherwise in a SIG charter ratified by the Technical Committee, all existing maintainers are asked to vote, 
+    if the candidate should be added to their group of maintainers. They vote by commenting "I support" or "I do not support" on this issue.
+    The election is over, when a majority of the maintainers have voted. If the majority have voted in favour of the candidate, the candidate 
+    can accept (or decline) the vote by commenting "I accept" or "I decline". If the candidate has not been elected, the issue can be closed.
+  options:
+    - label: Has the candidate been elected?
+    - label: Has the candidate accepted?
+    
