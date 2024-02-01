@@ -14,7 +14,7 @@ body:
     placeholder: "SIG example"
   validations:
     required: true
-- id: sig
+- id: maintainers_group
   type: input
   attributes:
     label: "maintainers team"
