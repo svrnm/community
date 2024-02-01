@@ -21,7 +21,8 @@ body:
     placeholder: "@example"
   validations:
     required: true
-- id: checkboxes
+- id: requirements
+  type: checkboxes
   attributes:
     label: Requirements
     description: Before submitting 
