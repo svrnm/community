@@ -56,10 +56,10 @@ body:
   attributes:
     label: Maintainer Onboarding
     description: |
+      After the maintainer has been elected, the following check list helps to verify that the maintainer has everything needed to fullfil their responsibility.
+      
     options:
       - label: Added to the `@opentelemetry/<sig-name>-maintainers` GitHub group
-        validations:
-          required: true
       - label: Added to `#otel-maintainers` slack channel
       - label: Added to the `maintainers` section in the SIGs repositories `README.md`
       - label: Added to [opentelemetry-calendar-contributors Google Group](https://groups.google.com/g/opentelemetry-calendar-contributors) 
