@@ -3,10 +3,10 @@ description: Onboarding checklist for maintainers
 title: "Onboard <GitHub handle> as <SIG/WG FOO> maintainer"
 labels: area/github-membership
 body:
-  - type: markdown
-    attributes:
-      value: |
-        This issue should be submitted by an existing maintainer of the affected SIG
+- type: markdown
+  attributes:
+    value: |
+     This issue should be submitted by an existing maintainer of the affected SIG
 - id: sig
   type: input
   attributes:
