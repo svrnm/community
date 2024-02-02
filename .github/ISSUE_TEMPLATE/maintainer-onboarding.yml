@@ -54,13 +54,19 @@ body:
 - id: onboarding
   type: checkboxes
   attributes:
-    label: Maintainer Onboarding
+    label: Maintainer Onboarding Tasks
     description: |
-      After the maintainer has been elected, the following check list helps to verify that the maintainer has everything needed to fullfil their responsibility.
-      
+      After the maintainer has been elected, the following check list helps to verify that the maintainer has everything needed
+      to fullfil their responsibility.
     options:
       - label: Added to the `@opentelemetry/<sig-name>-maintainers` GitHub group
       - label: Added to `#otel-maintainers` slack channel
       - label: Added to the `maintainers` section in the SIGs repositories `README.md`
       - label: Added to [opentelemetry-calendar-contributors Google Group](https://groups.google.com/g/opentelemetry-calendar-contributors) 
       - label: Added to any other groups, slack channels or resources that SIG maintainers require
+- id: tasks
+  type: checkboxes
+  attributes:
+    label: Prerequisites for new maintainer
+    description: |
+      The maintainer is asked to review the following checklist, fullfil the  
