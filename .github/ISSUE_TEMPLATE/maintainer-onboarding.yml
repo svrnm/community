@@ -69,4 +69,10 @@ body:
   attributes:
     label: Prerequisites for new maintainer
     description: |
-      The maintainer is asked to review the following checklist, fullfil the  
+      The maintainer is asked to review the following checklist, fullfil the items and check them off. When all items of this list are completed, this issue can be closed
+    options:
+      - label: Completed all **Maintainer Onboarding Tasks** (see above)
+      - label: Reviewed the [Code of Conduct](./code-of-conduct.md)
+      - label: Reviewed [requirements, responsibilites and privileges](./community-membership.md#maintainer)
+      - label: Reviewed all SIG specific documents that are relevant for a maintainer
+      - label: Completed the [Inclusive Open Source Community Orientation course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
