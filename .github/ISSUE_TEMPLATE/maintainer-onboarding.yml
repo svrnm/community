@@ -64,6 +64,7 @@ body:
       - label: Added to the `maintainers` section in the SIGs repositories `README.md`
       - label: Added to [opentelemetry-calendar-contributors Google Group](https://groups.google.com/g/opentelemetry-calendar-contributors) 
       - label: Added to any other groups, slack channels or resources that SIG maintainers require
+      - label: Invited to SIG meetings and Maintainer meeting.
 - id: tasks
   type: checkboxes
   attributes:
@@ -74,5 +75,7 @@ body:
       - label: Completed all **Maintainer Onboarding Tasks** (see above)
       - label: Reviewed the [Code of Conduct](./code-of-conduct.md)
       - label: Reviewed [requirements, responsibilites and privileges](./community-membership.md#maintainer)
+      - label: Reviewed [mission, vision, values](./mission-vision-values.md)
       - label: Reviewed all SIG specific documents that are relevant for a maintainer
+      - label: Scheduled a introductory call (30-60 minutes) with a GC member
       - label: Completed the [Inclusive Open Source Community Orientation course](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
