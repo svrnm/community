@@ -38,7 +38,7 @@ Four people must be elected in this election, each with two-year terms. Note tha
 
 # Voting process
 
-Anyone can track the 2026 election process via [this GitHub issue](https://github.com/open-telemetry/community/issues/3658). This year's election committee consists of governance committee members Austin Parker, Juraci Paixão Kröhling, Marylia Gutierrez, Severin Neumann, and Ted Young. None of whom are up for reelection this year.
+Anyone can track the 2026 election process via [this GitHub issue](https://github.com/open-telemetry/community/issues/3658). This year's election committee consists of governance committee members Marylia Gutierrez, Severin Neumann, and Ted Young. None of whom are up for reelection this year.
 We strive for transparency in the election process and hold the community's interests as our priority. In particular, we will ensure that all documents and assets related to the 2026 election process are public, and we will attempt to record and distribute notes for any meetings held as part of this process.
 
 For the 2026 elections, [Helios Voting](https://vote.heliosvoting.org/) was chosen as it's a hosted solution with cryptographic guarantees that no one can meddle with the results.
